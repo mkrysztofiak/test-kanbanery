@@ -1,0 +1,3 @@
+_disco:
+    path:     /disco/{text}
+    defaults: { _controller: AcmeDiscoBundle:Disco:disco }
